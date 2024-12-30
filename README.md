@@ -1,7 +1,7 @@
 # digitalhealthandhumanbehavior
-Course material from Aalto University regarding Digital Health and Human Behavior.<br>>
+Course material from Aalto University regarding Digital Health and Human Behavior.<br>
 Includes:<br>
-##Depression Severity and Factor Analysis Using Reported Health Data with Machine Learning Models
+## Depression Severity and Factor Analysis Using Reported Health Data with Machine Learning Models
 This project covers a report which analyses the correlations between depression metric by using various machine learning models and reported health data (PHQ-9 survey, fitbit, socio-demographic information).
 
 
